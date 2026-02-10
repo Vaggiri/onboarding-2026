@@ -19,45 +19,20 @@ This directory contains onboarding tasks. Each task folder describes the goal, a
 
 ## Task summaries and deliverables
 
-### Task 1.1 — Linux Migration
-#### Purpose
-- Install and configure a Linux environment to understand the runtime platform.
+### Task 1 - Terminal Velocity
+This task focuses on reducing friction between thought and execution by improving typing speed and terminal usage.
 
-#### Deliverables
-- A screenshot showing a system-info tool output that clearly identifies the distribution.
-- A short README that describes which installation path you chose and any notable steps or issues.
+### Task 2 - Linux Migration
+To understand software systems, one must control the environment they run on. This task introduces participants to Linux by setting up a developer-friendly operating system.
 
-### Task 1.2 — Terminal Velocity
-#### Purpose
-- Improve typing speed and shell fluency.
+### Task 3 - Algorithm Tour
+Participants implement the same algorithms across multiple programming languages to observe how identical logic is expressed, constrained, and reasoned about in different execution environments.
 
-#### Deliverables
-- A screenshot from your typing practice showing speed and accuracy.
-- A short file listing three representative terminal commands you used to demonstrate shell fluency, and a one-line note for each explaining why it demonstrates skill.
+### Task 4 - The Broken Web App
+This task introduces debugging by fixing a broken frontend–backend interaction in a web application.
 
-### Task 2.1 — Containerization
-#### Purpose
-- Package a small service and an auxiliary service so they run reproducibly.
-
-#### Deliverables
-- Minimal Dockerfile and compose configuration that build and run the app plus one auxiliary service.
-- A short README describing how to build and run locally and a single screenshot showing the running containers.
-
-### Task 2.1 — Algorithm Tour
-#### Purpose
-- Implement binary search in three different languages to compare idioms and tooling.
-
-#### Deliverables
-- Three small source files (one per language) and a README describing how you ran them and one observation per language.
-- Optional small tests or test vectors described in the README.
-
-### Task 2.2 — Broken Web App
-#### Purpose
-- Debug and fix a real frontend-backend integration bug.
-
-#### Deliverables
-- A PR that contains the fix and a PR description that explains root cause and verification steps.
-- Optional screenshots or a short GIF demonstrating the fixed flow.
+### Task 5 - Containerization ("It Works on My Machine")
+This task introduces containerization using Docker to ensure applications run consistently across systems.
 
 ### Task 4.1 — Dotfiles Showcase
 #### Purpose
@@ -72,28 +47,6 @@ This directory contains onboarding tasks. Each task folder describes the goal, a
 
 #### Deliverables
 - Link to the external PR and a one-paragraph note in your submission explaining what you fixed and how you found it.
-
-### Task 5 — Career Tracks (pick one)
-
-### 1. Track A — Systems Engineer
-#### Purpose
-- Small, safe diagnostics and scheduling.
-
-#### Deliverables
-- A minimal script that checks disk and memory and writes to a user-local log.
-- One-line example scheduling suggestion and a README describing how to run and test the script.
-
-### 2. Track B — AI Researcher
-#### Purpose
-- Minimal, reproducible sentiment classifier.
-
-#### Deliverables
-- Single-file program, a short requirements list, examples.txt with deterministic examples, and a README that documents model choices and expected outputs.
-
-### 3. Track C — Software Developer
-#### Purpose: small CLI that persists tasks to a JSON file.
-#### Deliverables
-- One small single-file implementation, an optional sample tasks.json, and a README with high-level verification steps.
 
 ## Submission guidelines
 
