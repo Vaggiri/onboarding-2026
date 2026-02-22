@@ -38,7 +38,7 @@ To confirm the kernel and system environment are running correctly, I utilized s
 
 ### System Info Screenshot
 
-!\[Linux Mint Verification\](./Screenshot from 2026-02-21 16-00-29.png)
+![Linux Mint Verification](./Screenshot%20from%202026-02-21%2016-00-29.png) 
 
 🧠 Reflection & Success Criteria
 --------------------------------
